@@ -1,0 +1,7 @@
+# Editors
+.vscode
+*.swp
+*.swo
+
+# Junk
+.DS_Store
