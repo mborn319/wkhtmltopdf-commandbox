@@ -1,0 +1,57 @@
+{
+    "author":"Michael Born",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"",
+    "homepage":"https://github.com/mborn319/wkhtmltopdf-commandbox",
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":["wkhtmltopdf","pdf"],
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"mborn319/wkhtmltopdf-commandbox",
+    "name":"wkhtmltopdf-commandbox",
+    "private":false,
+    "projectURL":"https://github.com/mborn319/wkhtmltopdf-commandbox",
+    "repository":{
+        "type":"vcs",
+        "URL":"https://github.com/mborn319/wkhtmltopdf-commandbox"
+    },
+    "scripts":{},
+    "shortDescription":"Wrap up wkhtmltopdf inside a Commandbox module",
+    "slug":"wkhtmltopdf-commandbox",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"modules",
+    "version":"0.12.5"
+}
